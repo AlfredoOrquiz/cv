@@ -1,0 +1,48 @@
+/**********************TAG SELECTORS************************/
+
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #66BFBF;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #89B5AF;
+  border-width: 5px;
+  width: 5%;
+}
+
+
+img:hover {
+  background-color: Gold;
+}
+
+
+
+/*********************CLASS SELECTORS***********************/
+
+.Bacon {
+  background-color: Green;
+}
+
+.Broccoli {
+  background-color: Red;
+}
+
+.Circular {
+  border-radius: 100%
+}
+
+/************************ID SELECTORS***********************/
+
+#Heading {
+  color: blue;
+}
